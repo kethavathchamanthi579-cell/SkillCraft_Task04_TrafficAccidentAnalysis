@@ -1,0 +1,13 @@
+Traffic Accident Analysis Summary
+----------------------------------
+
+Total Records: 49397
+
+Top Weather Conditions:
+Weather_Condition
+Clear               28116
+Overcast             5660
+Partly Cloudy        4575
+Mostly Cloudy        4527
+Scattered Clouds     3059
+Name: count, dtype: int64
